@@ -1,23 +1,15 @@
 import logo from './logo.svg';
 import './walker.css';
 
-function walker(walkerName, walkerImg) {
+function walker(name = 'Unknown', status = null, image = 'https://www.artofmtg.com/wp-content/uploads/2014/01/Totally-Lost-Art.jpg', source = 'https://mtg.fandom.com/wiki/Planeswalker/List_of_planeswalkers') {
   return (
-    <div className="">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+    <div className='walkerWrapper'>
+      <a href={source} target="_blank" rel="noopener noreferrer">
+      <img src={image} className='walkerImage' alt={name}/>
+      </a>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          {name}
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
     </div>
   );
 }
