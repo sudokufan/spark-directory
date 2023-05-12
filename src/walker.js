@@ -3,8 +3,6 @@ import "./walker.css";
 const Walker = (data) => {
   const walkerInfo = data.data;
 
-  console.log(walkerInfo);
-
   return (
     <div className="parent">
       <div className={`walkerWrapper ${walkerInfo.status}`}>
@@ -15,12 +13,10 @@ const Walker = (data) => {
             alt={walkerInfo.name}
             referrerPolicy="no-referrer"
           />
-          <section className="walkerText">
-            <span>{walkerInfo.description}</span>
-          </section>
+          <span className="description">{walkerInfo.description}</span>
         </a>
       </div>
-      <p>{walkerInfo.name}</p>
+      <span className="name">{walkerInfo.name}</span>
     </div>
   );
 };
