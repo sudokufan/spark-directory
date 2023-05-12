@@ -11,26 +11,26 @@ const App = () => {
       source: "https://scryfall.com/card/mat/35/kiora-sovereign-of-the-deep",
       description: "Confirmed in March of the Machine: Aftermath",
     },
-    { name: "Sally", role: "contributor" },
-  ];
+    {
+      name: "Nissa",
+      status: "desparked",
+      image: "",
+      source:
+        "https://magic.wizards.com/en/news/magic-story/she-who-breaks-the-world",
+      description: "Confirmed on DailyMTG",
+    },
 
-  return (
-    <div className="container">
-      <Walker
-        name="Kiora"
-        status="desparked"
-        image="https://www.artofmtg.com/wp-content/uploads/2014/11/Kiora-the-Crashing-Wave-MtG-Art.jpg"
-        source="https://scryfall.com/card/mat/35/kiora-sovereign-of-the-deep"
-        description="Confirmed in March of the Machine: Aftermath"
-      />
-      <Walker
-        name="Nissa"
-        status="desparked"
-        image=""
-        source="https://magic.wizards.com/en/news/magic-story/she-who-breaks-the-world"
-        description="Confirmed on DailyMTG"
-      />
-      <Walker
+    {
+      name: "Ajani",
+      status: "planeswalker",
+      image: "",
+      source:
+        "https://magic.wizards.com/en/news/magic-story/she-who-breaks-the-world",
+      description: "Confirmed on DailyMTG",
+    },
+
+    {
+      /* <Walker
         name="Teferi"
         status="desparked"
         image=""
@@ -52,13 +52,6 @@ const App = () => {
         description="Confirmed on DailyMTG"
       />
       <Walker name="Jace" status="unknown" image="" source="" description="" />
-      <Walker
-        name="Ajani"
-        status="planeswalker"
-        image=""
-        source=""
-        description=""
-      />
       <Walker
         name="The Wanderer"
         status="desparked"
@@ -93,7 +86,15 @@ const App = () => {
         image="https://www.artofmtg.com/wp-content/uploads/2014/11/Kiora-the-Crashing-Wave-MtG-Art.jpg"
         source="https://youtu.be/odzYBR-X_vw?t=1177"
         description="Confirmed at Magiccon Minneapolis"
-      />
+      /> */
+    },
+  ];
+
+  return (
+    <div className="container">
+      {walkers.map((walker) => (
+        <Walker data={walker} />
+      ))}
     </div>
   );
 };

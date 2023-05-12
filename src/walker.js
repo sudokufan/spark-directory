@@ -1,29 +1,27 @@
-import './walker.css';
+import "./walker.css";
 
-const Walker = (
-  name = 'Unknown',
-  status = 'unknown',
-  image = 'https://www.artofmtg.com/wp-content/uploads/2014/01/Totally-Lost-Art.jpg',
-  source = 'https://mtg.fandom.com/wiki/Planeswalker/List_of_planeswalkers',
-  description = 'Unknown'
-  ) => {
+const Walker = (data) => {
+  const walkerInfo = data.data;
 
-  const data = name;
+  console.log(walkerInfo);
 
   return (
-    <div className={`walkerWrapper ${data.status}`}>
-      <a href={data.source} target="_blank" rel="noopener noreferrer">
-      <img src={data.image} className='walkerImage' alt={data.name}/>
-      <section class='walkerText'>
-        <span>{data.name}</span>
-        <span>{data.description}</span>
-      </section>
+    <div className={`walkerWrapper ${walkerInfo.status}`}>
+      <a href={walkerInfo.source} target="_blank" rel="noopener noreferrer">
+        <img
+          src={walkerInfo.image}
+          className="walkerImage"
+          alt={walkerInfo.name}
+          referrerpolicy="no-referrer"
+        />
+        <section className="walkerText">
+          <span>{walkerInfo.name}</span>
+          <span>{walkerInfo.description}</span>
+        </section>
       </a>
-        <p>
-          {data.name}
-        </p>
+      <p>{walkerInfo.name}</p>
     </div>
   );
-}
+};
 
 export default Walker;
