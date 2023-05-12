@@ -15,7 +15,6 @@
 
 .walkerImage {
   object-fit: cover;
-  opacity: 0.4;
   height: 300px;
   width: 250px;
 }
@@ -33,6 +32,12 @@
 
 .desparked {
   background: red;
+}
+
+.desparked img {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  opacity: 0.5;
 }
 
 .unknown {

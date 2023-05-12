@@ -31,48 +31,71 @@ const App = () => {
     {
       name: "Jace",
       status: "unknown",
-      image: "",
+      image:
+        "https://www.artofmtg.com/wp-content/uploads/2019/04/Jace-Wielder-of-Mysteries-War-of-the-Spark-Art.jpg",
       source: "",
       description: "",
     },
+    {
+      name: "Teferi",
+      status: "desparked",
+      image: "",
+      source:
+        "https://magic.wizards.com/en/news/magic-story/she-who-breaks-the-world",
+      description: "Confirmed on DailyMTG",
+    },
+    {
+      name: "Rowan",
+      status: "desparked",
+      image:
+        "https://www.artofmtg.com/wp-content/uploads/2018/05/Rowan-Kenrith-Battlebond-Art.jpg",
+      source: "https://youtu.be/odzYBR-X_vw?t=1153",
+      description: "Confirmed at MagicCon Minneapolis",
+    },
+    {
+      name: "Will",
+      status: "desparked",
+      image:
+        "https://www.artofmtg.com/wp-content/uploads/2018/05/Will-Kenrith-Battlebond-Art.jpg",
+      source: "https://youtu.be/odzYBR-X_vw?t=1153",
+      description: "Confirmed at MagicCon Minneapolis",
+    },
+    {
+      name: "Chandra",
+      status: "planeswalker",
+      image:
+        "https://www.artofmtg.com/wp-content/uploads/2016/09/Chandra-Torch-of-Defiance-Kaladesh-MtG-Art.jpg",
+      source:
+        "https://magic.wizards.com/en/news/magic-story/she-who-breaks-the-world",
+      description: "Confirmed on DailyMTG",
+    },
+    {
+      name: "The Wanderer",
+      status: "desparked",
+      image:
+        "https://www.artofmtg.com/wp-content/uploads/2019/04/The-Wanderer-War-of-the-Spark-Art.jpg",
+      source: "https://youtu.be/sImiwohnUYg?t=739",
+      description: "Confirmed on Loading Ready Run",
+    },
+    {
+      name: "Nahiri",
+      status: "desparked",
+      image: "",
+      source: "https://magic.wizards.com/en/news/magic-story/beyond-repair",
+      description: "Confirmed on DailyMTG",
+    },
+    {
+      name: "Karn",
+      status: "desparked",
+      image: "",
+      source:
+        "https://magic.wizards.com/en/news/magic-story/she-who-breaks-the-world",
+      description: "Confirmed on DailyMTG",
+    },
 
     {
-      /* <Walker
-        name="Teferi"
-        status="desparked"
-        image=""
-        source="https://magic.wizards.com/en/news/magic-story/she-who-breaks-the-world"
-        description="Confirmed on DailyMTG"
-      />
-      <Walker
-        name="Karn"
-        status="desparked"
-        image=""
-        source="https://magic.wizards.com/en/news/magic-story/she-who-breaks-the-world"
-        description="Confirmed on DailyMTG"
-      />
-      <Walker
-        name="Nahiri"
-        status="desparked"
-        image=""
-        source="https://magic.wizards.com/en/news/magic-story/beyond-repair"
-        description="Confirmed on DailyMTG"
-      />
-      <Walker name="Jace" status="unknown" image="" source="" description="" />
-      <Walker
-        name="The Wanderer"
-        status="desparked"
-        image="https://www.artofmtg.com/wp-content/uploads/2019/04/The-Wanderer-War-of-the-Spark-Art.jpg"
-        source="https://youtu.be/sImiwohnUYg?t=739"
-        description="Confirmed on Loading Ready Run"
-      />
-      <Walker
-        name="Chandra"
-        status="planeswalker"
-        image=""
-        source="https://magic.wizards.com/en/news/magic-story/she-who-breaks-the-world"
-        description="Confirmed on DailyMTG"
-      />
+      /* 
+
       <Walker
         name="Will"
         status="desparked"
