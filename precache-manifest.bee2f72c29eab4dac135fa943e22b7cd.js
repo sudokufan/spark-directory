@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "94cb56b887d1fd425ffb",
+    "revision": "53d73c205b899ec57969",
     "url": "/static/css/main.279d41a7.chunk.css"
   },
   {
-    "revision": "94cb56b887d1fd425ffb",
-    "url": "/static/js/main.94cb56b8.chunk.js"
+    "revision": "53d73c205b899ec57969",
+    "url": "/static/js/main.53d73c20.chunk.js"
   },
   {
     "revision": "99c01311b1d34fb2721c",
@@ -22,6 +22,10 @@ self.__precacheManifest = [
   {
     "revision": "c2b0f65cfc0b6bb2653f2c40624dc224",
     "url": "/static/media/Beleren2016-Bold.c2b0f65c.woff"
+  },
+  {
+    "revision": "1002a4560137ce51831f6de6e59161d7",
+    "url": "/static/media/Beleren2016SmallCaps-Bold.1002a456.woff"
   },
   {
     "revision": "06d6a788ef38be4434a7f1e324c5cf67",
@@ -48,15 +52,11 @@ self.__precacheManifest = [
     "url": "/static/media/Beleren2016SmallCaps-BoldItalic.5645117e.ttf"
   },
   {
-    "revision": "1002a4560137ce51831f6de6e59161d7",
-    "url": "/static/media/Beleren2016SmallCaps-Bold.1002a456.woff"
-  },
-  {
     "revision": "df29f40092259f0bb5949308ddc83a98",
     "url": "/static/media/Beleren2016SmallCaps-BoldItalic.df29f400.svg"
   },
   {
-    "revision": "0f314db34daa4507dd55085b89a24de4",
+    "revision": "967abd1bb1095c154987356275e3fe95",
     "url": "/index.html"
   }
 ];
