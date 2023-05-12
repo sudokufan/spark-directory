@@ -14,7 +14,8 @@ const App = () => {
     {
       name: "Nissa",
       status: "desparked",
-      image: "",
+      image:
+        "https://www.artofmtg.com/wp-content/uploads/2019/04/Nissa-Who-Shakes-the-World-War-of-the-Spark-Arts.jpg",
       source:
         "https://magic.wizards.com/en/news/magic-story/she-who-breaks-the-world",
       description: "Confirmed on DailyMTG",
