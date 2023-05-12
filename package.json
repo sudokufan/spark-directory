@@ -1,7 +1,7 @@
 {
   "name": "spark-directory",
   "version": "0.1.0",
-  "homepage": "https://sudokufan.github.io/spark-directory",
+  "homepage": "/",
   "private": true,
   "dependencies": {
     "@saeris/typeface-beleren-bold": "^1.0.1",
