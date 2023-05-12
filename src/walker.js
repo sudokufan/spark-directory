@@ -12,10 +12,9 @@ const Walker = (data) => {
           src={walkerInfo.image}
           className="walkerImage"
           alt={walkerInfo.name}
-          referrerpolicy="no-referrer"
+          referrerPolicy="no-referrer"
         />
         <section className="walkerText">
-          <span>{walkerInfo.name}</span>
           <span>{walkerInfo.description}</span>
         </section>
       </a>

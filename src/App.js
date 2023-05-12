@@ -19,7 +19,6 @@ const App = () => {
         "https://magic.wizards.com/en/news/magic-story/she-who-breaks-the-world",
       description: "Confirmed on DailyMTG",
     },
-
     {
       name: "Ajani",
       status: "planeswalker",
@@ -27,6 +26,13 @@ const App = () => {
       source:
         "https://magic.wizards.com/en/news/magic-story/she-who-breaks-the-world",
       description: "Confirmed on DailyMTG",
+    },
+    {
+      name: "Jace",
+      status: "unknown",
+      image: "",
+      source: "",
+      description: "",
     },
 
     {
