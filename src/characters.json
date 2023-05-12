@@ -25,6 +25,78 @@
       "date": "2023-05-01"
     },
     {
+      "name": "Koth",
+      "status": "Desparked",
+      "image": "",
+      "source": "",
+      "description": "",
+      "date": ""
+    },
+    {
+      "name": "Vraska",
+      "status": "Unknown",
+      "image": "",
+      "source": "",
+      "description": "",
+      "date": ""
+    },
+    {
+      "name": "Tyvar",
+      "status": "Desparked",
+      "image": "",
+      "source": "",
+      "description": "Confirmed in March of the Machine: Aftermath",
+      "date": "2023-04-19"
+    },
+    {
+      "name": "Sarkhan",
+      "status": "Desparked",
+      "image": "",
+      "source": "",
+      "description": "Confirmed in March of the Machine: Aftermath",
+      "date": "2023-04-19"
+    },
+    {
+      "name": "Samut",
+      "status": "Desparked",
+      "image": "",
+      "source": "",
+      "description": "Confirmed in March of the Machine: Aftermath",
+      "date": "2023-04-19"
+    },
+    {
+      "name": "Ob Nixilis",
+      "status": "Desparked",
+      "image": "",
+      "source": "",
+      "description": "Confirmed in March of the Machine: Aftermath",
+      "date": "2023-04-19"
+    },
+    {
+      "name": "Nicol Bolas",
+      "status": "Desparked",
+      "image": "",
+      "source": "",
+      "description": "Confirmed in War of the Spark",
+      "date": "2019-04-19"
+    },
+    {
+      "name": "Narset",
+      "status": "Desparked",
+      "image": "",
+      "source": "",
+      "description": "Confirmed in March of the Machine: Aftermath",
+      "date": "2023-04-19"
+    },
+    {
+      "name": "Calix",
+      "status": "Desparked",
+      "image": "",
+      "source": "",
+      "description": "Confirmed in March of the Machine: Aftermath",
+      "date": "2023-04-19"
+    },
+    {
       "name": "Jace",
       "status": "Unknown",
       "image": "https://www.artofmtg.com/wp-content/uploads/2019/04/Jace-Wielder-of-Mysteries-War-of-the-Spark-Art.jpg",

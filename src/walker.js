@@ -10,7 +10,11 @@ const Walker = (data) => {
           walkerInfo.status ? walkerInfo.status : "unknown"
         }`}
       >
-        <a href={walkerInfo.source} target="_blank" rel="noopener noreferrer">
+        <a
+          href={walkerInfo.source ? walkerInfo.source : ""}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <img
             src={
               walkerInfo.image
