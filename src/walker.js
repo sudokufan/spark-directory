@@ -21,9 +21,11 @@ const Walker = (data) => {
             alt={walkerInfo.name}
             referrerPolicy="no-referrer"
           />
-          <span className="description">
-            {walkerInfo.description ? walkerInfo.description : "Unknown"}
-          </span>
+          <div className="textOverlay">
+            <span className="description">
+              {walkerInfo.description ? walkerInfo.description : "Unknown"}
+            </span>
+          </div>
         </a>
       </div>
       <span className="name">
