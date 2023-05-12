@@ -4,6 +4,30 @@ import React from "react";
 const Walker = (data) => {
   const walkerInfo = data.data;
 
+  const walkerSourceDate = () => {
+    const months = [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+    ];
+
+    const readableDate = new Date(walkerInfo.date);
+    const month = readableDate.getMonth();
+    const day = readableDate.getDate();
+    const year = readableDate.getFullYear();
+    const monthName = months[month];
+    return `${monthName} ${day} ${year}`;
+  };
+
   return (
     <div className="parent">
       <div
@@ -29,7 +53,9 @@ const Walker = (data) => {
           <div className="textOverlay">
             <span className="description">
               {walkerInfo.description
-                ? `${walkerInfo.status}: ${walkerInfo.description}`
+                ? `${walkerInfo.status}: ${
+                    walkerInfo.description
+                  }, ${walkerSourceDate()}`
                 : "Unknown"}
             </span>
           </div>
