@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './walker.css';
 
-const walker = (
+const Walker = (
   name = 'Unknown',
   status = 'unknown',
   image = 'https://www.artofmtg.com/wp-content/uploads/2014/01/Totally-Lost-Art.jpg',
@@ -9,17 +8,19 @@ const walker = (
   description = 'Unknown'
   ) => {
 
+  const data = name;
+
   return (
-    <div className={`walkerWrapper ${status}`}>
-      <a href={source} target="_blank" rel="noopener noreferrer">
-      <img src={image} className='walkerImage' alt={name}/>
+    <div className={`walkerWrapper ${data.status}`}>
+      <a href={data.source} target="_blank" rel="noopener noreferrer">
+      <img src={data.image} className='walkerImage' alt={data.name}/>
       <section class='walkerText'>
-        <span>{name}</span>
-        <span>{description}</span>
+        <span>{data.name}</span>
+        <span>{data.description}</span>
       </section>
       </a>
         <p>
-          {name}
+          {data.name}
         </p>
     </div>
   );
