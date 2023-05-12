@@ -1,6 +1,7 @@
 .parent {
   display: flex;
   flex-direction: column;
+  gap: 5px;
 }
 
 .parent:hover .textOverlay {
