@@ -375,6 +375,22 @@
       "source": "",
       "description": "",
       "date": "2023-03-20"
+    },
+    {
+      "name": "Estrid",
+      "status": "Unknown",
+      "image": "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/a/a5/Estrid.png",
+      "source": "",
+      "description": "",
+      "date": "2023-03-20"
+    },
+    {
+      "name": "Grist",
+      "status": "Unknown",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2021/06/Grist-the-Hunger-Tide-Modern-Horizons-2-MtG-Art.jpg",
+      "source": "",
+      "description": "",
+      "date": "2000-01-01"
     }
   ]
 }
