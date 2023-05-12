@@ -1,6 +1,7 @@
 import "./App.css";
 import Walker from "./walker";
 import characters from "./characters.json";
+import React from "react";
 
 const App = () => {
   const walkersConvertedDateObj = characters.roster.map((roster) => {

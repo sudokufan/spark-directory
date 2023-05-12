@@ -1,4 +1,5 @@
 import "./walker.css";
+import React from "react";
 
 const Walker = (data) => {
   const walkerInfo = data.data;
