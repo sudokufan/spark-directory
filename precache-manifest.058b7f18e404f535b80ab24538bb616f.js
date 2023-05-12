@@ -32,28 +32,28 @@ self.__precacheManifest = [
     "url": "/spark-directory/static/media/Beleren2016SmallCaps-Bold.1002a456.woff"
   },
   {
-    "revision": "6f4f54c77708eec29ffc6dec15916694",
-    "url": "/spark-directory/static/media/Beleren2016-Bold.6f4f54c7.svg"
-  },
-  {
     "revision": "427549e957e2f652bcbfab1114a1f096",
     "url": "/spark-directory/static/media/Beleren2016SmallCaps-Bold.427549e9.ttf"
   },
   {
-    "revision": "f9ba650a987c8812376f70a2b2fa67c9",
-    "url": "/spark-directory/static/media/Beleren2016SmallCaps-Bold.f9ba650a.svg"
+    "revision": "6f4f54c77708eec29ffc6dec15916694",
+    "url": "/spark-directory/static/media/Beleren2016-Bold.6f4f54c7.svg"
   },
   {
     "revision": "fa927570c2d86e4fd648a7d50e2dfee4",
     "url": "/spark-directory/static/media/Beleren2016SmallCaps-BoldItalic.fa927570.woff"
   },
   {
-    "revision": "df29f40092259f0bb5949308ddc83a98",
-    "url": "/spark-directory/static/media/Beleren2016SmallCaps-BoldItalic.df29f400.svg"
-  },
-  {
     "revision": "5645117e87e2b56309db58fc648cdc73",
     "url": "/spark-directory/static/media/Beleren2016SmallCaps-BoldItalic.5645117e.ttf"
+  },
+  {
+    "revision": "f9ba650a987c8812376f70a2b2fa67c9",
+    "url": "/spark-directory/static/media/Beleren2016SmallCaps-Bold.f9ba650a.svg"
+  },
+  {
+    "revision": "df29f40092259f0bb5949308ddc83a98",
+    "url": "/spark-directory/static/media/Beleren2016SmallCaps-BoldItalic.df29f400.svg"
   },
   {
     "revision": "d592d13ea6a3d6a00306017e273c3cbb",
