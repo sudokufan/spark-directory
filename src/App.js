@@ -92,31 +92,12 @@ const App = () => {
         "https://magic.wizards.com/en/news/magic-story/she-who-breaks-the-world",
       description: "Confirmed on DailyMTG",
     },
-
     {
-      /* 
-
-      <Walker
-        name="Will"
-        status="desparked"
-        image="https://www.artofmtg.com/wp-content/uploads/2018/05/Will-Kenrith-Battlebond-Art.jpg"
-        source="https://youtu.be/odzYBR-X_vw?t=1153"
-        description="Confirmed at Magiccon Minneapolis"
-      />
-      <Walker
-        name="Rowan"
-        status="desparked"
-        image="https://www.artofmtg.com/wp-content/uploads/2018/05/Rowan-Kenrith-Battlebond-Art.jpg"
-        source="https://youtu.be/odzYBR-X_vw?t=1153"
-        description="Confirmed at Magiccon Minneapolis"
-      />
-      <Walker
-        name="Ashiok"
-        status="planeswalker"
-        image="https://www.artofmtg.com/wp-content/uploads/2014/11/Kiora-the-Crashing-Wave-MtG-Art.jpg"
-        source="https://youtu.be/odzYBR-X_vw?t=1177"
-        description="Confirmed at Magiccon Minneapolis"
-      /> */
+      name: "Ashiok",
+      status: "planeswalker",
+      image: "",
+      source: "https://youtu.be/odzYBR-X_vw?t=1177",
+      description: "Confirmed at Magiccon Minneapolis",
     },
   ];
 

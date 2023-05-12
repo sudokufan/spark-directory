@@ -5,7 +5,11 @@ const Walker = (data) => {
 
   return (
     <div className="parent">
-      <div className={`walkerWrapper ${walkerInfo.status}`}>
+      <div
+        className={`walkerWrapper ${
+          walkerInfo.status ? walkerInfo.status : "unknown"
+        }`}
+      >
         <a href={walkerInfo.source} target="_blank" rel="noopener noreferrer">
           <img
             src={
@@ -17,10 +21,14 @@ const Walker = (data) => {
             alt={walkerInfo.name}
             referrerPolicy="no-referrer"
           />
-          <span className="description">{walkerInfo.description}</span>
+          <span className="description">
+            {walkerInfo.description ? walkerInfo.description : "Unknown"}
+          </span>
         </a>
       </div>
-      <span className="name">{walkerInfo.name}</span>
+      <span className="name">
+        {walkerInfo.name ? walkerInfo.name : "Unknown"}
+      </span>
     </div>
   );
 };
