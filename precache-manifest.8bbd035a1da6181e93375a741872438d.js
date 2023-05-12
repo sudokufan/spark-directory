@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "53d73c205b899ec57969",
-    "url": "/static/css/main.279d41a7.chunk.css"
+    "revision": "9bf5e7d73751fc5db23f",
+    "url": "/static/css/main.705cd5c2.chunk.css"
   },
   {
-    "revision": "53d73c205b899ec57969",
-    "url": "/static/js/main.53d73c20.chunk.js"
+    "revision": "9bf5e7d73751fc5db23f",
+    "url": "/static/js/main.9bf5e7d7.chunk.js"
   },
   {
     "revision": "99c01311b1d34fb2721c",
@@ -24,20 +24,20 @@ self.__precacheManifest = [
     "url": "/static/media/Beleren2016-Bold.c2b0f65c.woff"
   },
   {
-    "revision": "1002a4560137ce51831f6de6e59161d7",
-    "url": "/static/media/Beleren2016SmallCaps-Bold.1002a456.woff"
-  },
-  {
     "revision": "06d6a788ef38be4434a7f1e324c5cf67",
     "url": "/static/media/Beleren2016-Bold.06d6a788.ttf"
+  },
+  {
+    "revision": "427549e957e2f652bcbfab1114a1f096",
+    "url": "/static/media/Beleren2016SmallCaps-Bold.427549e9.ttf"
   },
   {
     "revision": "6f4f54c77708eec29ffc6dec15916694",
     "url": "/static/media/Beleren2016-Bold.6f4f54c7.svg"
   },
   {
-    "revision": "427549e957e2f652bcbfab1114a1f096",
-    "url": "/static/media/Beleren2016SmallCaps-Bold.427549e9.ttf"
+    "revision": "5645117e87e2b56309db58fc648cdc73",
+    "url": "/static/media/Beleren2016SmallCaps-BoldItalic.5645117e.ttf"
   },
   {
     "revision": "f9ba650a987c8812376f70a2b2fa67c9",
@@ -48,15 +48,15 @@ self.__precacheManifest = [
     "url": "/static/media/Beleren2016SmallCaps-BoldItalic.fa927570.woff"
   },
   {
-    "revision": "5645117e87e2b56309db58fc648cdc73",
-    "url": "/static/media/Beleren2016SmallCaps-BoldItalic.5645117e.ttf"
-  },
-  {
     "revision": "df29f40092259f0bb5949308ddc83a98",
     "url": "/static/media/Beleren2016SmallCaps-BoldItalic.df29f400.svg"
   },
   {
-    "revision": "967abd1bb1095c154987356275e3fe95",
+    "revision": "1002a4560137ce51831f6de6e59161d7",
+    "url": "/static/media/Beleren2016SmallCaps-Bold.1002a456.woff"
+  },
+  {
+    "revision": "a7fe4526164a7f272fb17d7d0409be3a",
     "url": "/index.html"
   }
 ];
