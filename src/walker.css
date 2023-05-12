@@ -1,2 +1,18 @@
-/* add red for desparked, no-saturation for null */
+.container {
+  height: 600px;
+  width: 100vw;
+  overflow: hidden;
+}
 
+.walkerImage {
+  object-fit: cover;
+  opacity: 0.4;
+}
+
+.desparked {
+  background: red;
+}
+
+.unknown {
+  filter: saturate(0);
+}
