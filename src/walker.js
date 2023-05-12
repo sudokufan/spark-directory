@@ -23,7 +23,9 @@ const Walker = (data) => {
           />
           <div className="textOverlay">
             <span className="description">
-              {walkerInfo.description ? walkerInfo.description : "Unknown"}
+              {walkerInfo.description
+                ? `${walkerInfo.status}: ${walkerInfo.description}`
+                : "Unknown"}
             </span>
           </div>
         </a>
