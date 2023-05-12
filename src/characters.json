@@ -36,14 +36,14 @@
       "name": "Vraska",
       "status": "Unknown",
       "image": "https://www.artofmtg.com/wp-content/uploads/2018/09/Vraska-Golgari-Queen-Guilds-of-Ravnica-MtG-Art.jpg",
-      "source": "https://magic.wizards.com/en/news/magic-story/one-and-the-same",
-      "description": "Last seen disappearing from a pile of Ravnican rubble",
+      "source": "",
+      "description": "",
       "date": "2023-03-24"
     },
     {
       "name": "Angrath",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2017/12/Angrath-Minotaur-Pirate-Rivals-of-Ixalan-MtG-Art.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -51,7 +51,7 @@
     {
       "name": "Arlinn",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2021/09/Arlinn-the-Packs-Hope-Innistrad-Midnight-Hunt-MtG-Art-0.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -59,7 +59,7 @@
     {
       "name": "Basri",
       "status": "Unknown",
-      "image": "https://www.artofmtg.com/wp-content/uploads/2020/06/Basri-Devoted-Paladin-Core-Set-2021-MtG-Art.jpg",
+      "image": "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/1/14/Basri_Ket.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -67,7 +67,7 @@
     {
       "name": "Daretti",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2018/09/Daretti-Ingenious-Iconoclast-Mythic-Edition-Guilds-of-Ravnica-MtG-Art.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -75,7 +75,7 @@
     {
       "name": "Davriel",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2019/04/Davriel-Rogue-Shadowmage-War-of-the-Spark-Art.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -83,7 +83,7 @@
     {
       "name": "Garruk",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2020/06/Garruk-Savage-Herald-Core-Set-2021-MtG-Art.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -91,7 +91,7 @@
     {
       "name": "Dihada",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2021/06/Geyadrone-Dihada-Modern-Horizons-2-MtG-Art.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -99,7 +99,7 @@
     {
       "name": "Huatli",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2021/12/Huatli-the-Suns-Heart-MtG-Art.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -107,7 +107,7 @@
     {
       "name": "Saheeli",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2022/12/Saheeli-Filigree-Master-The-Brothers-War-MtG-Art.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -123,13 +123,21 @@
     {
       "name": "Jiang Yanggu",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2019/04/Jiang-Yanggu-Wildcrafter-War-of-the-Spark-Art.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
     },
     {
       "name": "Kaito",
+      "status": "Unknown",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2022/01/Kaito-Shizuki-Kamigawa-Neon-Dynasty-MtG-Art.jpg",
+      "source": "",
+      "description": "",
+      "date": "2000-01-01"
+    },
+    {
+      "name": "Animatou",
       "status": "Unknown",
       "image": "",
       "source": "",
@@ -139,7 +147,7 @@
     {
       "name": "Kasmina",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2019/04/Kasmina-Enigmatic-Mentor-War-of-the-Spark-Art.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -147,7 +155,7 @@
     {
       "name": "Kaya",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2019/04/Kaya-Bane-of-the-Dead-War-of-the-Spark-Art.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -155,7 +163,7 @@
     {
       "name": "Liliana",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2022/08/Liliana-of-the-Veil-Dominaria-United-MtG-Art.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -171,7 +179,7 @@
     {
       "name": "Niko",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2021/01/Niko-Aris-Variant-Kaldheim-MtG-Art.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -179,7 +187,7 @@
     {
       "name": "Oko",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2019/09/Oko-Thief-of-Crowns-Throne-of-Eldraine-MtG-Art.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -187,7 +195,7 @@
     {
       "name": "Ral",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2014/06/Ral-Zarek-MtG-Planeswalker-Art.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -195,7 +203,7 @@
     {
       "name": "Sorin",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2021/10/Sorin-the-Mirthless-2-Innistrad-Crimson-Vow-MtG-Art.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -203,7 +211,7 @@
     {
       "name": "Teyo",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2019/04/Teyo-the-Shieldmage-War-of-the-Spark-Art.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -211,7 +219,7 @@
     {
       "name": "Ugin",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2014/12/Ugin-the-Spirit-Dragon-Highres.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -219,7 +227,7 @@
     {
       "name": "Vivien",
       "status": "Unknown",
-      "image": "",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2019/04/Vivien-Champion-of-the-Wilds-War-of-the-Spark-Arts.jpg",
       "source": "",
       "description": "",
       "date": "2000-01-01"
@@ -227,9 +235,9 @@
     {
       "name": "Tezzeret",
       "status": "Unknown",
-      "image": "",
-      "source": "https://magic.wizards.com/en/news/magic-story/a-man-of-parts",
-      "description": "Last seen hiding out in the outer rim",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2014/06/Tezzeret-Agent-of-Bolas-MtG-Art-Planeswalker.jpg",
+      "source": "",
+      "description": "",
       "date": "2023-03-24"
     },
     {
@@ -293,7 +301,7 @@
       "status": "Unknown",
       "image": "https://www.artofmtg.com/wp-content/uploads/2019/04/Jace-Wielder-of-Mysteries-War-of-the-Spark-Art.jpg",
       "source": "https://magic.wizards.com/en/news/magic-story/episode-1-triumph-of-the-fleshless",
-      "description": "Last seen peacing out from New Phyrexia",
+      "description": "",
       "date": "2023-03-16"
     },
     {
@@ -364,8 +372,8 @@
       "name": "Quintorious",
       "status": "Unknown",
       "image": "https://www.artofmtg.com/wp-content/uploads/2023/04/Complete-the-Circuit-March-of-the-Machine-MtG-Art.jpg",
-      "source": "https://scryfall.com/card/mom/52/complete-the-circuit",
-      "description": "Last seen leaving Strixhaven when his spark ignited",
+      "source": "",
+      "description": "",
       "date": "2023-03-30"
     }
   ]

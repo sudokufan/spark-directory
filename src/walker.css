@@ -17,10 +17,6 @@
   border: 0;
 }
 
-.walkerWrapper a {
-  color: white;
-}
-
 .walkerImage {
   object-fit: cover;
   height: 300px;
@@ -44,6 +40,8 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  color: white;
+  background-color: grey;
 }
 
 .name {
