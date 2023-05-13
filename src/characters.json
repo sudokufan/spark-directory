@@ -101,16 +101,24 @@
       "status": "Unknown",
       "image": "https://www.artofmtg.com/wp-content/uploads/2021/12/Huatli-the-Suns-Heart-MtG-Art.jpg",
       "source": "",
-      "description": "",
-      "date": "2000-01-01"
+      "description": "Flavour text on Gold-Forged Thopteryx suggests desparked",
+      "date": "2000-05-02"
     },
     {
       "name": "Saheeli",
       "status": "Unknown",
       "image": "https://www.artofmtg.com/wp-content/uploads/2022/12/Saheeli-Filigree-Master-The-Brothers-War-MtG-Art.jpg",
       "source": "",
-      "description": "",
-      "date": "2000-01-01"
+      "description": "Flavour text on Gold-Forged Thopteryx suggests desparked",
+      "date": "2000-05-02"
+    },
+    {
+      "name": "Jaya",
+      "status": "Dead",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2022/08/Jaya-Fiery-Negotiator-Dominaria-United-MtG-Art.jpg",
+      "source": "https://magic.wizards.com/en/news/magic-story/episode-5-whisper-wind-2022-08-18",
+      "description": "Confirmed on DailyMTG; thrown to her death by Ajani",
+      "date": "2022-08-18"
     },
     {
       "name": "Jared",
@@ -119,6 +127,22 @@
       "source": "",
       "description": "",
       "date": "2000-01-01"
+    },
+    {
+      "name": "Lukka",
+      "status": "Dead",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2021/04/Lukka-Wayward-Bonder-Strixhaven-MtG-Art.jpg",
+      "source": "https://magic.wizards.com/en/news/magic-story/survival-of-the-fittest",
+      "description": "Confirmed on DailyMTG; ravaged by Vadrok, mercy-killed by Vivien",
+      "date": "2023-03-20"
+    },
+    {
+      "name": "Tamiyo",
+      "status": "Dead",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2014/06/Tamiyo-the-Moon-Sage-MtG-Planeswalker-Art.jpg",
+      "source": "https://magic.wizards.com/en/news/magic-story/episode-3-mother-son-and-story",
+      "description": "Confirmed on DailyMTG; killed by The Wanderer",
+      "date": "2023-03-17"
     },
     {
       "name": "Jiang Yanggu",
