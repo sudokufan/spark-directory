@@ -53,12 +53,26 @@
 }
 
 .Desparked img {
-  -webkit-filter: grayscale(100%);
-  filter: grayscale(100%);
+  filter: saturate(0);
   opacity: 0.5;
 }
 
-.Unknown {
+.Unknown img {
   filter: saturate(0);
   opacity: 0.3;
+}
+
+.Dead img {
+  filter: saturate(0);
+}
+
+.Dead .description:before {
+  position: absolute;
+  content: "\d7";
+  font-size: 20rem;
+  color: maroon;
+  font-weight: bold;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }

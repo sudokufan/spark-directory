@@ -391,6 +391,30 @@
       "source": "",
       "description": "",
       "date": "2000-01-01"
+    },
+    {
+      "name": "Wrenn",
+      "status": "Dead",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2021/09/Wrenn-and-Seven-Innistrad-Midnight-Hunt-MtG-Art-1.jpg",
+      "source": "https://magic.wizards.com/en/news/magic-story/episode-9-the-old-sins-of-new-phyrexia",
+      "description": "Confirmed on DailyMTG",
+      "date": "2023-03-28"
+    },
+    {
+      "name": "Tibalt",
+      "status": "Dead",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2019/04/Tibalt-Rakish-Instigator-War-of-the-Spark-Art.jpg",
+      "source": "https://www.tumblr.com/seananmcguire/706808344235720704/did-tibalt-die-in-the-one-story",
+      "description": "Confirmed by MTG story writer",
+      "date": "2023-01-18"
+    },
+    {
+      "name": "Elspeth",
+      "status": "Unknown",
+      "image": "https://www.artofmtg.com/wp-content/uploads/2023/04/Archangel-Elspeth-Variant-March-of-the-Machine-MtG-Art.jpg",
+      "source": "https://magic.wizards.com/en/news/magic-story/episode-10-the-rhythms-of-life",
+      "description": "Last seen flying into the Zhalfir sky",
+      "date": "2023-03-28"
     }
   ]
 }
