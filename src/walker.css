@@ -33,6 +33,7 @@
   width: 100%;
   opacity: 0;
   transition: 0.5s ease;
+  z-index: 1;
 }
 
 .description {
@@ -66,13 +67,13 @@
   filter: saturate(0);
 }
 
-.Dead .description:before {
+.Dead:after {
+  top: -5%;
+  left: 0;
+  right: 0;
   position: absolute;
   content: "\d7";
   font-size: 20rem;
   color: maroon;
   font-weight: bold;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
