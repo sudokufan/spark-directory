@@ -98,11 +98,11 @@
     },
     {
       "name": "Huatli",
-      "status": "Unknown",
+      "status": "Desparked",
       "image": "https://www.artofmtg.com/wp-content/uploads/2021/12/Huatli-the-Suns-Heart-MtG-Art.jpg",
-      "source": "",
-      "description": "Flavour text on Gold-Forged Thopteryx suggests desparked",
-      "date": "2000-05-02"
+      "source": "https://nitter.net/i/status/1684881480286441472",
+      "description": "Confirmed at MagicCon Barcelona",
+      "date": "2023-07-28"
     },
     {
       "name": "Saheeli",
