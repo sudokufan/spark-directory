@@ -106,11 +106,11 @@
     },
     {
       "name": "Saheeli",
-      "status": "Unknown",
+      "status": "Desparked",
       "image": "https://www.artofmtg.com/wp-content/uploads/2022/12/Saheeli-Filigree-Master-The-Brothers-War-MtG-Art.jpg",
-      "source": "",
-      "description": "Flavour text on Gold-Forged Thopteryx suggests desparked",
-      "date": "2000-05-02"
+      "source": "https://magic.wizards.com/en/news/announcements/a-first-look-at-the-lost-caverns-of-ixalan",
+      "description": "Confirmed at MagicCon Las Vegas",
+      "date": "2023-09-22"
     },
     {
       "name": "Jaya",
@@ -389,16 +389,16 @@
       "status": "Planeswalker",
       "image": "https://www.artofmtg.com/wp-content/uploads/2019/04/Ashiok-Dream-Render-War-of-the-Spark-Art.jpg",
       "source": "https://youtu.be/odzYBR-X_vw?t=1177",
-      "description": "Confirmed at Magiccon Minneapolis",
+      "description": "Confirmed at MagicCon Minneapolis",
       "date": "2023-05-05"
     },
     {
       "name": "Quintorius",
-      "status": "Unknown",
+      "status": "Planeswalker",
       "image": "https://www.artofmtg.com/wp-content/uploads/2023/04/Complete-the-Circuit-March-of-the-Machine-MtG-Art.jpg",
-      "source": "",
-      "description": "",
-      "date": "2023-03-20"
+      "source": "https://magic.wizards.com/en/news/announcements/a-first-look-at-the-lost-caverns-of-ixalan",
+      "description": "Confirmed at MagicCon Las Vegas",
+      "date": "2023-09-22"
     },
     {
       "name": "Estrid",
