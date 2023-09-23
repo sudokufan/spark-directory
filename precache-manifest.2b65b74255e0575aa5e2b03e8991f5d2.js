@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6aaaae127599840aaca9",
+    "revision": "c90011fa7aefc86fa386",
     "url": "/static/css/main.a3715f74.chunk.css"
   },
   {
-    "revision": "6aaaae127599840aaca9",
-    "url": "/static/js/main.6aaaae12.chunk.js"
+    "revision": "c90011fa7aefc86fa386",
+    "url": "/static/js/main.c90011fa.chunk.js"
   },
   {
     "revision": "99c01311b1d34fb2721c",
@@ -20,28 +20,24 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "6f4f54c77708eec29ffc6dec15916694",
-    "url": "/static/media/Beleren2016-Bold.6f4f54c7.svg"
+    "revision": "c2b0f65cfc0b6bb2653f2c40624dc224",
+    "url": "/static/media/Beleren2016-Bold.c2b0f65c.woff"
   },
   {
     "revision": "06d6a788ef38be4434a7f1e324c5cf67",
     "url": "/static/media/Beleren2016-Bold.06d6a788.ttf"
   },
   {
-    "revision": "427549e957e2f652bcbfab1114a1f096",
-    "url": "/static/media/Beleren2016SmallCaps-Bold.427549e9.ttf"
-  },
-  {
     "revision": "1002a4560137ce51831f6de6e59161d7",
     "url": "/static/media/Beleren2016SmallCaps-Bold.1002a456.woff"
   },
   {
-    "revision": "f9ba650a987c8812376f70a2b2fa67c9",
-    "url": "/static/media/Beleren2016SmallCaps-Bold.f9ba650a.svg"
+    "revision": "6f4f54c77708eec29ffc6dec15916694",
+    "url": "/static/media/Beleren2016-Bold.6f4f54c7.svg"
   },
   {
-    "revision": "c2b0f65cfc0b6bb2653f2c40624dc224",
-    "url": "/static/media/Beleren2016-Bold.c2b0f65c.woff"
+    "revision": "427549e957e2f652bcbfab1114a1f096",
+    "url": "/static/media/Beleren2016SmallCaps-Bold.427549e9.ttf"
   },
   {
     "revision": "fa927570c2d86e4fd648a7d50e2dfee4",
@@ -52,11 +48,15 @@ self.__precacheManifest = [
     "url": "/static/media/Beleren2016SmallCaps-BoldItalic.5645117e.ttf"
   },
   {
+    "revision": "f9ba650a987c8812376f70a2b2fa67c9",
+    "url": "/static/media/Beleren2016SmallCaps-Bold.f9ba650a.svg"
+  },
+  {
     "revision": "df29f40092259f0bb5949308ddc83a98",
     "url": "/static/media/Beleren2016SmallCaps-BoldItalic.df29f400.svg"
   },
   {
-    "revision": "4612346fae1a3ce28a9fbc4109d5158d",
+    "revision": "8dd0a280ab93c03e76f33751c4eb9c75",
     "url": "/index.html"
   }
 ];
