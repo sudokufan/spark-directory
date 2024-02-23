@@ -178,11 +178,11 @@
     },
     {
       "name": "Kaya",
-      "status": "Unknown",
+      "status": "Planeswalker",
       "image": "https://www.artofmtg.com/wp-content/uploads/2019/04/Kaya-Bane-of-the-Dead-War-of-the-Spark-Art.jpg",
-      "source": "",
-      "description": "",
-      "date": "2000-01-01"
+      "source": "https://magic.wizards.com/en/news/magic-story/episode-1-ghosts-of-our-past",
+      "description": "Confirmed on DailyMTG",
+      "date": "2023-12-05"
     },
     {
       "name": "Liliana",
@@ -210,19 +210,19 @@
     },
     {
       "name": "Oko",
-      "status": "Unknown",
+      "status": "Planeswalker",
       "image": "https://www.artofmtg.com/wp-content/uploads/2019/09/Oko-Thief-of-Crowns-Throne-of-Eldraine-MtG-Art.jpg",
       "source": "",
-      "description": "",
-      "date": "2000-01-01"
+      "description": "Confirmed at MagicCon Chicago",
+      "date": "2024-02-23"
     },
     {
       "name": "Ral",
-      "status": "Unknown",
+      "status": "Planeswalker",
       "image": "https://www.artofmtg.com/wp-content/uploads/2014/06/Ral-Zarek-MtG-Planeswalker-Art.jpg",
-      "source": "",
-      "description": "",
-      "date": "2000-01-01"
+      "source": "https://magic.wizards.com/en/news/magic-story/episode-1-ghosts-of-our-past",
+      "description": "Confirmed on DailyMTG",
+      "date": "2023-12-05"
     },
     {
       "name": "Sorin",
